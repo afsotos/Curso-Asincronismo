@@ -6,6 +6,7 @@
   "scripts": {
     "callback": "node src/callback/index.js",
     "callback:challenge": "node src/callback/challenge.js",
+    "callback:halfchallenge": "node src/callback/halfchallenge.js",
     "callback:challenge2": "node src/callback/challenge2.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
